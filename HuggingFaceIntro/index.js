@@ -23,7 +23,7 @@ const textTranslationResponse = await hf.translation({
 	inputs: textToTranslate,
 	parameters: {
 		src_lang: 'en_XX',
-		tgt_lang: 'ur_PK',
+		tgt_lang: 'ru_RU',
 	},
 });
 
