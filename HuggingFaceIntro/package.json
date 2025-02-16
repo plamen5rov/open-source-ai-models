@@ -8,7 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@huggingface/inference": "^2.6.1",
+    "@huggingface/inference": "2.6.1",
+    "dotenv": "^16.4.7",
     "vite": "latest"
   }
 }
