@@ -8,8 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@huggingface/inference": "2.6.1",
+    "@huggingface/inference": "^2.6.1",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
